@@ -1,0 +1,5 @@
+soap 10.00 12
+pen 10.00 5
+pencil 15.00 2
+chair 200.00 3
+boar 100.00 0
